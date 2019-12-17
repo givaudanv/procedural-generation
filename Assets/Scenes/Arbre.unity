@@ -256,10 +256,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   branchPrefab: {fileID: 1818070204691060605, guid: abe883b60a6e5274886f863bf41c3009,
     type: 3}
-  width: 0.95
-  length: 0.7
-  angle: 1.7
-  zAng: 60
+  width: 0.57
+  length: 0.29
+  angle: 9.7
+  zAng: 82
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0

@@ -61,9 +61,9 @@ public class LSystem : MonoBehaviour
 
     void Start()
     {
-        //rules["F"] = "FF+[+F-F-F]-[-F+F+F]";
+        rules["F"] = "FF+[+F-F-F]-[-F+F+F]";
         //rules["F"] = "F+[+F-F-[F]]--[F]";
-        rules["F"] = "F+[+F-F-[F]]--[F]";
+        //rules["F"] = "F+[+F-F-[F]]--[F]";
         //rules["F"] = "F+[+F-F-]--[F]";
         rules["+"] = "+";
         rules["-"] = "-";
